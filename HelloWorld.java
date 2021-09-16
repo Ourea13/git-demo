@@ -3,5 +3,6 @@ public class HelloWorld {
         System.out.println("Hello World");
         System.out.println("Git");
         System.out.println("Spring Boot");
+        System.out.println("Redis");
     }
 }
