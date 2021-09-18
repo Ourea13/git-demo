@@ -6,5 +6,6 @@ public class HelloWorld {
         System.out.println("Spring");
         System.out.println("MySQL");
         System.out.println("Kafka");
+	System.out.println("RabbitMQ");
     }
 }
