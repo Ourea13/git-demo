@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("Redis Key Space");
         System.out.println("Spring");
         System.out.println("MySQL");
+        System.out.println("Kafka");
     }
 }
